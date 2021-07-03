@@ -1,0 +1,11 @@
+C:\Users\ztwhi\source\repos\MyMainApp\MyMainApp\bin\Debug\netcoreapp3.1\MyMainApp.exe
+C:\Users\ztwhi\source\repos\MyMainApp\MyMainApp\bin\Debug\netcoreapp3.1\MyMainApp.deps.json
+C:\Users\ztwhi\source\repos\MyMainApp\MyMainApp\bin\Debug\netcoreapp3.1\MyMainApp.runtimeconfig.json
+C:\Users\ztwhi\source\repos\MyMainApp\MyMainApp\bin\Debug\netcoreapp3.1\MyMainApp.runtimeconfig.dev.json
+C:\Users\ztwhi\source\repos\MyMainApp\MyMainApp\bin\Debug\netcoreapp3.1\MyMainApp.dll
+C:\Users\ztwhi\source\repos\MyMainApp\MyMainApp\bin\Debug\netcoreapp3.1\MyMainApp.pdb
+C:\Users\ztwhi\source\repos\MyMainApp\MyMainApp\obj\Debug\netcoreapp3.1\MyMainApp.csprojAssemblyReference.cache
+C:\Users\ztwhi\source\repos\MyMainApp\MyMainApp\obj\Debug\netcoreapp3.1\MyMainApp.AssemblyInfoInputs.cache
+C:\Users\ztwhi\source\repos\MyMainApp\MyMainApp\obj\Debug\netcoreapp3.1\MyMainApp.AssemblyInfo.cs
+C:\Users\ztwhi\source\repos\MyMainApp\MyMainApp\obj\Debug\netcoreapp3.1\MyMainApp.dll
+C:\Users\ztwhi\source\repos\MyMainApp\MyMainApp\obj\Debug\netcoreapp3.1\MyMainApp.pdb
